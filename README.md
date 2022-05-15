@@ -1,4 +1,5 @@
 # Webpack Starter Kit
+the starter kit of champions.
 
 ## Clone This Repo
 
